@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SematecForth</string>
+    <string name="Pleas_Enter_Your_Name">Pleas Enter Your Name</string>
+    <string name="welcom">Welcom !</string>
+    <string name="ok">OK</string>
+
+</resources>
